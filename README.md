@@ -1,6 +1,12 @@
 
 # **Flipkart Data Scrapping**
 
+# Authors
+
+- [@vishwjeet14](https://github.com/vishwjeet14)
+
+# Introduction
+
 Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites.
 
 In this project i am scrapping the Mobiles Data from flipkart to compare different mobile with there key attributes. In the data scollection process i am collecting the key attributes are given below.
@@ -14,7 +20,7 @@ In this project i am scrapping the Mobiles Data from flipkart to compare differe
 
 
 
-# **Library use in Projects**
+# Library use in Projects
 
 ![Logo](https://camo.githubusercontent.com/525ebacbae66bbb158fe23eb1e57ffa6b2113c493c36bccc8e6abc37b950c724/68747470733a2f2f69312e77702e636f6d2f7777772e64617461736369656e63656578616d706c65732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f31302f707974686f6e2d616e642d70616e6461732e6a70673f6669743d3830302532433238362673736c3d31)
 ![Logo](https://camo.githubusercontent.com/cb3c28a222e41ff1f38ab270765b1df086f45e65ab1e8ca9b6fbf910d5efc3f3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f332f33312f4e756d50795f6c6f676f5f323032302e737667)
@@ -22,18 +28,16 @@ In this project i am scrapping the Mobiles Data from flipkart to compare differe
 ![Logo](https://raw.githubusercontent.com/psf/requests/master/ext/requests-logo.png)
 
 
-## Environment Variables
+# Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
 
 https://raw.githubusercontent.com/vishwjeet14/Flipkart_data_scrapper/main/requirements.txt
 
+# Code
 
-## Authors
+![Logo](https://github.com/vishwjeet14/Flipkart_data_scrapper/blob/main/picture/flipkart%20scrapper%20code.png)
 
-- [@vishwjeet14](https://github.com/vishwjeet14)
-
-
-## Feedback
+# Feedback
 
 If you have any feedback, please reach out to us at vishc70@gmail.com
